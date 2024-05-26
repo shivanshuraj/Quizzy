@@ -1,8 +1,9 @@
 Quiz app that asks you questions on programming and adds up your score. Has beautiful animations and sound effects. Time to check your coding knowledge!
 <p align="center">
-  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/996541e0-f580-4a94-860f-1ea93423b140" alt="Example Image" width="200">
-  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/954f94d7-0a40-4772-b493-8848c0f35372" alt="Example Image" width="200">
-  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/d7e5f774-12c2-48d8-a20b-bfcfe81faea8" alt="Example Image" width="200">
-  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/197bcdf6-7ded-4aa2-b99e-9da3515da93e" alt="Example Image" width="200">
+  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/3ed00014-cf71-4ee6-addf-62399ed51a00" alt="Example Image" width="200">
+  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/11804bf3-227b-4af7-9536-2595e471c322" alt="Example Image" width="200">
+  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/c0d8281e-66d9-45d5-8e6f-88104ad16577" alt="Example Image" width="200">
+  <img src="https://github.com/shivanshuraj/Quizzy/assets/73875083/6b363ef7-9559-44f1-92f8-01ce0ae14767" alt="Example Image" width="200">
 
 </p>
+
